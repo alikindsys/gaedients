@@ -26,6 +26,7 @@ blue
 - get `rustc`
 - `rustc src/main.rs`
 - `./main`  
+
 thats it. no need for cargo since i didn't even knew that was a thing.  
 mostly just submit flags you want to add as a pull request and i'll do that for you.  
 
